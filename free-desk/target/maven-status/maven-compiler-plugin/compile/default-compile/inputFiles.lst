@@ -1,0 +1,15 @@
+D:\development\java\workspace\alfabattle\free-desk\src\main\java\com\mahixcode\alfabattle\controller\BranchesController.java
+D:\development\java\workspace\alfabattle\free-desk\src\main\java\com\mahixcode\alfabattle\controller\exception\ErrorResponse.java
+D:\development\java\workspace\alfabattle\free-desk\src\main\java\com\mahixcode\alfabattle\dao\BranchesDao.java
+D:\development\java\workspace\alfabattle\free-desk\src\main\java\com\mahixcode\alfabattle\dao\postgres\branches\BranchesDaoPostgres.java
+D:\development\java\workspace\alfabattle\free-desk\src\main\java\com\mahixcode\alfabattle\exception\ClientException.java
+D:\development\java\workspace\alfabattle\free-desk\src\main\java\com\mahixcode\alfabattle\dto\response\BranchesResponse.java
+D:\development\java\workspace\alfabattle\free-desk\src\main\java\com\mahixcode\alfabattle\controller\exception\MainExceptionController.java
+D:\development\java\workspace\alfabattle\free-desk\src\main\java\com\mahixcode\alfabattle\exception\NotFoundException.java
+D:\development\java\workspace\alfabattle\free-desk\src\main\java\com\mahixcode\alfabattle\service\BranchesService.java
+D:\development\java\workspace\alfabattle\free-desk\src\main\java\com\mahixcode\alfabattle\AlfabattleApplication.java
+D:\development\java\workspace\alfabattle\free-desk\src\main\java\com\mahixcode\alfabattle\dao\postgres\branches\repository\BranchesRepository.java
+D:\development\java\workspace\alfabattle\free-desk\src\main\java\com\mahixcode\alfabattle\service\mapper\BranchesMapper.java
+D:\development\java\workspace\alfabattle\free-desk\src\main\java\com\mahixcode\alfabattle\service\branches\DefaultBranchesService.java
+D:\development\java\workspace\alfabattle\free-desk\src\main\java\com\mahixcode\alfabattle\model\Branches.java
+D:\development\java\workspace\alfabattle\free-desk\src\main\java\com\mahixcode\alfabattle\dao\postgres\config\PersistenceContext.java

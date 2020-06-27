@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7328ece-e53b-4e8d-b86b-4f2970433090" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="threads" value="20" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx2g" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dtdvmj8R93qsFmwDEpIpvuVong" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\development\java\workspace\alfabattle\src\main\java\com\mahixcode\alfabattle\exception" />
+      <recent name="D:\development\java\workspace\alfabattle\src\main\java\com\mahixcode\alfabattle\controller" />
+      <recent name="D:\development\java\workspace\alfabattle\src\main\resources" />
+      <recent name="D:\development\java\workspace\alfabattle\src\main\java\com\mahixcode\alfabattle\dao\postgres" />
+      <recent name="D:\development\java\workspace\alfabattle\src\main\java\com\mahixcode\alfabattle" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.free-desk/Dockerfile">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlfabattleApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="free-desk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mahixcode.alfabattle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mahixcode.alfabattle.AlfabattleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlfabattleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="alfabattle" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mahixcode.alfabattle.AlfabattleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="free-desk/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="free-desk/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.free-desk/Dockerfile" />
+        <item itemvalue="Spring Boot.AlfabattleApplication (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7328ece-e53b-4e8d-b86b-4f2970433090" name="Default Changelist" comment="" />
+      <created>1593248555347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593248555347</updated>
+      <workItem from="1593248556815" duration="811000" />
+      <workItem from="1593249391917" duration="3716000" />
+      <workItem from="1593253169051" duration="1126000" />
+      <workItem from="1593254885507" duration="727000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="183" key="#Docker" timestamp="1593253991655">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="183" key="#Docker/0.0.1920.1050/-1600.255.1600.900@0.0.1920.1050" timestamp="1593253991655" />
+    <state x="492" y="305" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593249617758">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="492" y="305" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/-1600.255.1600.900@0.0.1920.1050" timestamp="1593249617758" />
+    <state x="669" y="63" key="#free-desk/Dockerfile" timestamp="1593253992375">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="669" y="63" key="#free-desk/Dockerfile/0.0.1920.1050/-1600.255.1600.900@0.0.1920.1050" timestamp="1593253992375" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1593253992387">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1600.255.1600.900@0.0.1920.1050" timestamp="1593253992386" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1593253992386">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050/-1600.255.1600.900@0.0.1920.1050" timestamp="1593253992386" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1593253992386">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050/-1600.255.1600.900@0.0.1920.1050" timestamp="1593253992386" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1593253992386">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/-1600.255.1600.900@0.0.1920.1050" timestamp="1593253992386" />
+    <state width="1877" height="285" key="GridCell.Tab.1.bottom" timestamp="1593253208539">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.1.bottom/0.0.1920.1050/-1600.255.1600.900@0.0.1920.1050" timestamp="1593253208539" />
+    <state width="1877" height="285" key="GridCell.Tab.1.center" timestamp="1593253208539">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.1.center/0.0.1920.1050/-1600.255.1600.900@0.0.1920.1050" timestamp="1593253208539" />
+    <state width="1877" height="285" key="GridCell.Tab.1.left" timestamp="1593253208539">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.1.left/0.0.1920.1050/-1600.255.1600.900@0.0.1920.1050" timestamp="1593253208539" />
+    <state width="1877" height="285" key="GridCell.Tab.1.right" timestamp="1593253208539">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.1.right/0.0.1920.1050/-1600.255.1600.900@0.0.1920.1050" timestamp="1593253208539" />
+    <state x="803" y="298" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1593250617091">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="803" y="298" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1050/-1600.255.1600.900@0.0.1920.1050" timestamp="1593250617091" />
+    <state x="342" y="186" key="new project wizard" timestamp="1593252921114">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="342" y="186" key="new project wizard/0.0.1920.1050/-1600.255.1600.900@0.0.1920.1050" timestamp="1593252921114" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+    database-platform: org.hibernate.dialect.PostgreSQL9Dialect
+    properties.hibernate:
+      temp.use_jdbc_metadata_defaults: false
+      show_sql: true
+  datasource:
+    url: 'jdbc:postgresql://178.154.247.192:5432/alfa_battle'
+    username: 'alfa_battle'
+    password: 'qwe123'
